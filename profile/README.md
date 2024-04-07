@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="256" src="./logo.svg" />
+    <img width="256" src="./profile/logo.svg" />
 </p>
 
 Hey! 👋
