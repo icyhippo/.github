@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="256" src="./profile/logo.svg" />
+    <img width="256" src="https://raw.githubusercontent.com/icyhippo/.github/refs/heads/main/profile/logo.svg" />
 </p>
 
 Hey! 👋
